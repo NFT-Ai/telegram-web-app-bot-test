@@ -1,6 +1,6 @@
 {
   "runOnStart": true,
-  "updateInterval": 1,
+  "updateInterval": 1000,
   "logging": true,
   "silent": false,
   "commitMessage": "Automatyczny commit",
